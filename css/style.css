@@ -117,6 +117,7 @@ margin-top: 50px;}
 .team img:hover{
 	width: 90%;
 	height: 90%;
+	border-radius: 15px;
 	border-bottom: 3px solid #f7600e;
 	-webkit-transition: .5s all;   
     -webkit-transition-delay: 5s; 
